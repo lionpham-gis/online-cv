@@ -16,7 +16,7 @@ sidebar:
     phone: (+84) 976 710 239
     timezone: UTC+7 Timezone
     citizenship:
-    website: app.vtools.xyz #do not add http://
+    website: facebook.com/Lion.Pham.IT #do not add http://
     linkedin: lionpham-gis
     xing:
     github: lionpham-gis
@@ -36,14 +36,11 @@ sidebar:
           level: Basic
 
 career-profile:
-    title: Career Profile
+    title: Thông tin chung
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Tôi là một nhà lập trình phát triển ứng dụng/ Bản đồ và GIS. Có kinh nghiệm hơn 10 năm trong lĩnh vực 
+      phát triển các hệ thống ứng dụng bản đồ và GIS cho ngành Lâm Nghiệp, Giao Thông, Khảo Sát và Viễn Thám.
+      Tôi cũng có khá nhiều kinh nghiệm Full Stack về phát triển hệ thống đa nền tảng Mobile, Desktop và WebGIS.
 education:
     title: Giáo dục và đào tạo
     info:
@@ -57,45 +54,19 @@ education:
         time: 2007 - 2012
         details:
 experiences:
-    title: Experiences
+    title: Kinh nghiệp
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Trưởng nhóm phát triển hệ thống GIS
+        time: 2013 - Hiện tại
+        company: Công ty tư vấn và phát triển Đồng Xanh
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Vị trí: Trưởng nhóm phát triển hệ thống bản đồ WebGIS/ MobileGIS phục vụ các dự án cho các tổ chức phi chính phủ (NGO)
+          và một số các dự án cấp Quốc Gia.
+      - role: Kỹ sư bản đồ và GIS
+        time: 2012 - 2013
+        company: Công ty cổ phần và phát triển Eposi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Vị trí: Kỹ sư bản đồ và lập trình xử lý số liệu GPS phục vụ hệ thống dẫn đường cho xe ô tô
 projects:
     title: Projects
     intro: >
@@ -103,88 +74,49 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Tăng cường quản lý tài nguyên thiên nhiên bền vững, JICA – Nâng cấp và cải thiện Hệ thống theo dõi diễn biến rừng của Tổng cục Lâm nghiệp (2021-2022)
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Chịu trách nhiệm thiết kế cơ sở dữ liệu và mô hình dữ liệu. 
+                  Chịu trách nhiệm xây dựng và nâng cấp chức năng hệ thống FRMS trên thiết bị di động 
+                  Thiết lập bảo mật phụ trợ và sao lưu dữ liệu"
 
-      - title: Tempo
+      - title: Xây dựng phần mềm báo cáo chống ngập và hỗ trợ ra quyết định cho Thành phố Hồ Chí Minh (2020-2021)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Phát triển một ứng dụng di động thân thiện với người dùng cho phép thu thập dữ liệu và báo cáo về lũ lụt (hình ảnh, tọa độ, cường độ lũ lụt hoặc báo cáo tình trạng của cơ sở hạ tầng kiểm soát lũ lụt); cung cấp bản đồ ngập lụt, bản đồ chuyên đề và thông tin cập nhật về lũ lụt cho người dùng.
+                  Phát triển giao diện web, được kết nối với ứng dụng dành cho thiết bị di động, cung cấp hình ảnh trực quan (bản đồ ngập lụt và bản đồ chuyên đề) và các công cụ phân tích để hỗ trợ ứng phó và quản lý lũ lụt; cho phép trích xuất dữ liệu và bản đồ cho các báo cáo; cho phép kết nối với cơ sở dữ liệu bên ngoài (dữ liệu không gian Ur, khí tượng thủy văn)."
 
-      - title: Atom
+      - title: Ứng dụng công nghệ viễn thám, sử dụng ảnh vệ tinh phục vụ công tác quản lý, giám sát tài nguyên rừng trên địa bàn tỉnh Bình Thuận (2019-2020)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Xây dựng các chức năng phần mềm: Quản lý, theo dõi hiện trạng rừng; Hệ thống đánh giá mất rừng từ ảnh vệ tinh; 
+                  Hệ thống tự động gửi tin nhắn SMS và email để cảnh báo mất rừng; Chức năng tổng hợp diễn biến từ khoanh vẽ thực địa bằng máy tính bảng."
 
-      - title: Delta
+      - title: Hệ thống giám sát rừng công nghệ cao, dịch vụ chuyển giao và xây dựng phần mềm eLearning's và Cổng thông tin Nông nghiệp cho Quảng Nam và Thừa Thiên Huế thuộc dự án Trường Sơn Xanh
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Xây dựng chức năng xuất bảng biểu, tạo báo cáo cho các lớp thông tin hiện trạng rừng, chi trả DVMTR, chứng chỉ rừng, lớp dữ liệu cảnh báo mất rừng cho Quảng Nam.
+                  Kết nối dữ liệu từ máy chủ FRMS của tổng cục lâm nghiệp về hệ thống cảnh báo mất rừng của tỉnh Quảng Nam.
+                  Xây dựng các module hiển thị các lớp thông tin diễn biến rừng, tạo báo cáo, truy vấn diễn biến rừng theo thời gian."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
+      - title: Phát triển hệ thống giám sát tre dựa trên thiết bị di động cho INBAR ở Ethiopia, Uganda, Madagascar
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Thu thập hình ảnh với thẻ địa lý được liên kết với điểm khảo sát.
+                  Phát triển ứng dụng mobile cho Thu thập dữ liệu bản đồ.
+                  Dịch vụ Bản đồ và bảng điều khiển dựa trên web để trực quan hóa dữ liệu khảo sát và tạo báo cáo quản lý"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: JavaScript & NodeJS
+        level: 90%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Android & Java
+        level: 99%
+
+      - name: QGIS/ArcGIS/GeoServer/MapBox/MapInfo/FME/PostGIS
+        level: 95%
+
+      - name: UX/UI & BA
+        level: 90%
