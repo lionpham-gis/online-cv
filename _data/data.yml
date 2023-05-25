@@ -103,7 +103,7 @@ projects:
                   Dịch vụ Bản đồ và bảng điều khiển dựa trên web để trực quan hóa dữ liệu khảo sát và tạo báo cáo quản lý"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Kỹ năng và kinh nghiệm
 
     toolset:
       - name: Python
@@ -115,7 +115,10 @@ skills:
       - name: Android & Java
         level: 99%
 
-      - name: QGIS/ArcGIS/GeoServer/MapBox/MapInfo/FME/PostGIS
+      - name: QGIS/ArcGIS/GeoServer
+        level: 95%
+
+      - name: MapInfo/FME/PostGIS
         level: 95%
 
       - name: UX/UI & BA
