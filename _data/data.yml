@@ -70,9 +70,7 @@ experiences:
 projects:
     title: Dự án
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Một số các dự án đã tham gia thực hiện.
     assignments:
       - title: Tăng cường quản lý tài nguyên thiên nhiên bền vững, JICA – Nâng cấp và cải thiện Hệ thống theo dõi diễn biến rừng của Tổng cục Lâm nghiệp (2021-2022)
         link: "#"
