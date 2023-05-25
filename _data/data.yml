@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Phạm Mạnh Đạm
-    tagline: Full Stack Developer
+    tagline: Full Stack Developer / GIS and Mapping
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,42 +16,24 @@ sidebar:
     phone: (+84) 976 710 239
     timezone: UTC+7 Timezone
     citizenship:
-    website: linkedin.com/in/phạm-mạnh-đạm-0750a316a #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: app.vtools.xyz #do not add http://
+    linkedin: lionpham-gis
+    xing:
+    github: lionpham-gis
+    telegram: lionpham # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://lionpham-gis.github.io/online-cv/print
 
     languages:
-      title: Languages
+      title: Ngoại ngữ
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+          level: Basic
 
 career-profile:
     title: Career Profile
@@ -63,30 +45,17 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    title: Education
+    title: Giáo dục và đào tạo
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree: Thạc sỹ Địa Tin Học
+        university: Đại học Mỏ Địa Chất
+        time: 2019 - 2021
+        details:
+
+      - degree: Kỹ sư Công Nghệ Thông Tin
+        university: Đại học Mỏ Địa Chất
+        time: 2007 - 2012
+        details:
 experiences:
     title: Experiences
     info:
