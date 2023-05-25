@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Phạm Mạnh Đạm
     tagline: Full Stack Developer / GIS and Mapping
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: phammanhdam.it@gmail.com
@@ -36,13 +36,13 @@ sidebar:
           level: Basic
 
 career-profile:
-    title: Thông tin chung
+    title: Thông tin
     summary: |
       Tôi là một nhà lập trình phát triển ứng dụng/ Bản đồ và GIS. Có kinh nghiệm hơn 10 năm trong lĩnh vực 
       phát triển các hệ thống ứng dụng bản đồ và GIS cho ngành Lâm Nghiệp, Giao Thông, Khảo Sát và Viễn Thám.
       Tôi cũng có khá nhiều kinh nghiệm Full Stack về phát triển hệ thống đa nền tảng Mobile, Desktop và WebGIS.
 education:
-    title: Giáo dục và đào tạo
+    title: Bằng cấp
     info:
       - degree: Thạc sỹ Địa Tin Học
         university: Đại học Mỏ Địa Chất
@@ -54,7 +54,7 @@ education:
         time: 2007 - 2012
         details:
 experiences:
-    title: Kinh nghiệp
+    title: Kinh nghiệm
     info:
       - role: Trưởng nhóm phát triển hệ thống GIS
         time: 2013 - Hiện tại
@@ -68,7 +68,7 @@ experiences:
         details: |
           Vị trí: Kỹ sư bản đồ và lập trình xử lý số liệu GPS phục vụ hệ thống dẫn đường cho xe ô tô
 projects:
-    title: Projects
+    title: Dự án
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -103,7 +103,7 @@ projects:
                   Dịch vụ Bản đồ và bảng điều khiển dựa trên web để trực quan hóa dữ liệu khảo sát và tạo báo cáo quản lý"
 
 skills:
-    title: Kỹ năng và kinh nghiệm
+    title: Kỹ năng
 
     toolset:
       - name: Python
