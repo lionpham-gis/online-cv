@@ -88,13 +88,13 @@ projects:
         tagline: "Xây dựng các chức năng phần mềm: Quản lý, theo dõi hiện trạng rừng; Hệ thống đánh giá mất rừng từ ảnh vệ tinh; 
                   Hệ thống tự động gửi tin nhắn SMS và email để cảnh báo mất rừng; Chức năng tổng hợp diễn biến từ khoanh vẽ thực địa bằng máy tính bảng."
 
-      - title: Hệ thống giám sát rừng công nghệ cao, dịch vụ chuyển giao và xây dựng phần mềm eLearning's và Cổng thông tin Nông nghiệp cho Quảng Nam và Thừa Thiên Huế thuộc dự án Trường Sơn Xanh
+      - title: Hệ thống giám sát rừng công nghệ cao, dịch vụ chuyển giao và xây dựng phần mềm eLearning's và Cổng thông tin Nông nghiệp cho Quảng Nam và Thừa Thiên Huế thuộc dự án Trường Sơn Xanh (2018)
         link: "#"
         tagline: "Xây dựng chức năng xuất bảng biểu, tạo báo cáo cho các lớp thông tin hiện trạng rừng, chi trả DVMTR, chứng chỉ rừng, lớp dữ liệu cảnh báo mất rừng cho Quảng Nam.
                   Kết nối dữ liệu từ máy chủ FRMS của tổng cục lâm nghiệp về hệ thống cảnh báo mất rừng của tỉnh Quảng Nam.
                   Xây dựng các module hiển thị các lớp thông tin diễn biến rừng, tạo báo cáo, truy vấn diễn biến rừng theo thời gian."
 
-      - title: Phát triển hệ thống giám sát tre dựa trên thiết bị di động cho INBAR ở Ethiopia, Uganda, Madagascar
+      - title: Phát triển hệ thống giám sát tre dựa trên thiết bị di động cho INBAR ở Ethiopia, Uganda, Madagascar (2018)
         link: "#"
         tagline: "Thu thập hình ảnh với thẻ địa lý được liên kết với điểm khảo sát.
                   Phát triển ứng dụng mobile cho Thu thập dữ liệu bản đồ.
