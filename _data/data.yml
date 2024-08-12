@@ -56,12 +56,17 @@ education:
 experiences:
     title: Kinh nghiệm
     info:
+      - role: Chuyên viên chuyển đổi số Quốc Gia
+        time: 2023 - Hiện tại
+        company: Công ty cổ phần Tập đoàn Minh Tuệ
+        details: |
+          Vị trí: Kỹ thuật viên chuyển đổi số và hạ tầng CNTT.
       - role: Trưởng nhóm phát triển hệ thống GIS
-        time: 2013 - Hiện tại
+        time: 2013 - 2023
         company: Công ty tư vấn và phát triển Đồng Xanh
         details: |
           Vị trí: Trưởng nhóm phát triển hệ thống bản đồ WebGIS/ MobileGIS phục vụ các dự án cho các tổ chức phi chính phủ (NGO)
-          và một số các dự án cấp Quốc Gia.
+          và một số các dự án cấp Quốc Gia và đa Quốc Gia.
       - role: Kỹ sư bản đồ và GIS
         time: 2012 - 2013
         company: Công ty cổ phần và phát triển Eposi
@@ -72,6 +77,10 @@ projects:
     intro: >
       Một số các dự án đã tham gia thực hiện.
     assignments:
+      - title: Xây dựng kho CSDL và chính quyền số Thành phố Hải Phòng (2023-2024)
+        link: "#"
+        tagline: "Chịu trách nhiệm thiết kế cơ sở dữ liệu và phân tích hệ thống. 
+                  Phụ trách việc khảo sát xây dựng thiết kế CSDL các sở/ ban/ ngành và phân tích thiết kế hệ thống"
       - title: Tăng cường quản lý tài nguyên thiên nhiên bền vững, JICA – Nâng cấp và cải thiện Hệ thống theo dõi diễn biến rừng của Tổng cục Lâm nghiệp (2021-2022)
         link: "#"
         tagline: "Chịu trách nhiệm thiết kế cơ sở dữ liệu và mô hình dữ liệu. 
